@@ -10,6 +10,7 @@
 
 }
 
+
 @charset "utf-8";
 /*
 /* 
@@ -69,7 +70,7 @@ html {
 body {
 	margin: 0;
 	line-height: 1.231;
-	font-family: "goidbook", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "goidbook", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 1.2em;
 	color: rgba(88,89,91,1.00);
 	background: url(img/backround.png);

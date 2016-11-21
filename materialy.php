@@ -1,4 +1,5 @@
 <!doctype html>
+ 
 <!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
 <!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
 <!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
@@ -38,12 +39,22 @@ Do the following if you're using your customized build of modernizr (http://www.
   <div class="body">
       <div id="menu" class="underbody">
   <p><a href="index.html">Novinky</a>  ∞  <a href="kurz.html">Kurz</a>  ∞  <a href="termin.html">Termín & Podmínky</a>  ∞  <a href="katedry.html">Katedry</a>  ∞  <a href="lide.html">Účastníci</a>  ∞  <a href="tym.html">Tým</a></p>  </div>
-    
+
+ 
     
     
     <div class="underbody">
-      <h2>KATEDRY</h2>
-      <p>Vzdělávání na Ventu má na starost devět kateder<br>
+	
+<?php
+$username = "ventus2016";
+$password = "budjaksvojsik";
+$nonsense = "supercalifragilisticexpialidocious";
+
+if (isset($_COOKIE['PrivatePageLogin'])) {
+   if ($_COOKIE['PrivatePageLogin'] == md5($password.$nonsense)) {
+?>
+      <h2>MATERIÁLY</h2>
+      <p>Zde budeme postupně doplňovat materiály z víkendů.<br>
 	  <ul>
 		<li>IDEOLOGICA</li>
 		<li>COLLEGIUM</li>
@@ -55,17 +66,62 @@ Do the following if you're using your customized build of modernizr (http://www.
 		<li>ORDO & IUSTITIA</li>
 		<li>HUMANA</li>
 		</ul>
-		
-		Materiály k jednotlivým katedrám najdete <a href="materialy.php">zde</a>.
 	  </p>
+	  
+	  
+    </div>
+	<div id="footer">
+    <div id="underfooter">
+      <p>Vůdcovský kurz Ventus, Junák - český skaut, okres Praha 4</p>
     </div>
   </div>
+  
+</div>
+<?php
+      exit;
+   } else {
+      echo "Bad Cookie.";
+      exit;
+   }
+}
+
+if (isset($_GET['p']) && $_GET['p'] == "login") {
+   if ($_POST['user'] != $username) {
+      echo "Špatně zadané jméno. Klikni pro <a href=materialy.php>návrat</a>.";
+      exit;
+   } else if ($_POST['keypass'] != $password) {
+      echo "Špatně zadané heslo. Klikni pro <a href=materialy.php>návrat</a>.";
+      exit;
+   } else if ($_POST['user'] == $username && $_POST['keypass'] == $password) {
+      setcookie('PrivatePageLogin', md5($_POST['keypass'].$nonsense));
+      header("Location: $_SERVER[PHP_SELF]");
+   } else {
+      echo "Nelze se přihlásit.";
+   }
+}
+?>
+
+<h2>Přihlášení</h2>
+<form action="<?php echo $_SERVER['PHP_SELF']; ?>?p=login" method="post">
+<label><input type="text" name="user" id="user" /> Zadej jméno</label><br />
+<label><input type="password" name="keypass" id="keypass" /> Zadej heslo</label><br /><br />
+<input type="submit" id="submit" value="Přihlásit se jako Svojsík" /><br /><br />
+</form>
+
+
+
+  </div>
+  
+  
 
   <div id="footer">
     <div id="underfooter">
       <p>Vůdcovský kurz Ventus, Junák - český skaut, okres Praha 4</p>
     </div>
   </div>
+  
 </div>
+	
+
 </body>
 </html>
