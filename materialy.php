@@ -57,14 +57,34 @@ if (isset($_COOKIE['PrivatePageLogin'])) {
       <p>Zde budeme postupně doplňovat materiály z víkendů.<br>
 	  <ul>
 		<li>IDEOLOGICA</li>
+		<ul>
+		<li><a href="dokumenty/Prezentace_Ventus-Ideologica.ppt">Rocky - na čem stojí skauting</a></li>
+		</ul>
 		<li>COLLEGIUM</li>
 		<li>METODICA</li>
+		<ul>
+		<li><a href="dokumenty/uvod_do_skautskeho_mysleni.pdf">Úvod do skautského myšlení</a></li>
+		<li><a href="dokumenty/prezentace-zdroje.ppt">Radim - zdroje a prameny</a></li>
+		</ul>
 		<li>PSYCHOLOGIA & PEDAGOGICA</li>
 		<li>TERRA</li>
+		<ul>
+		<li><a href="dokumenty/TERRA_Nez_vyjedete_na_tabor_2016.pdf">Hurón - Než vyjedete na tábor</a></li>
+		<li><a href="dokumenty/Tera_1_vikend_2016_17.ppt">Bóža,Hurón - Terra</a></li>
+		</ul>
 		<li>MEDICA</li>
 		<li>FISCUS</li>
 		<li>ORDO & IUSTITIA</li>
+		<ul>
+		<li><a href="dokumenty/organizace_ventus.pdf">Adam,Doktor - Organizace Junáka - českého skauta</a></li>
+		<li><a href="dokumenty/Vranova_skripta-organizace.pdf">Vránova skripta - organizace</a></li>
+		<li><a href="dokumenty/Vranova_skripta-pravo.pdf">Vránova skripta - právo</a></li>
+		</ul>
 		<li>HUMANA</li>
+		<li>OSTATNÍ</li>
+		<ul>
+		<li><a href="dokumenty/antikody.pdf">Antikódy</a></li>
+		</ul>
 		</ul>
 	  </p>
 	  
