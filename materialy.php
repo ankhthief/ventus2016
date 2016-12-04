@@ -61,12 +61,20 @@ if (isset($_COOKIE['PrivatePageLogin'])) {
 		<li><a href="dokumenty/Prezentace_Ventus-Ideologica.ppt">Rocky - na čem stojí skauting</a></li>
 		</ul>
 		<li>COLLEGIUM</li>
+		<ul>
+		<li><a href="dokumenty/Autorita.ppt">Máňa - autorita</a></li>
+		</ul>
 		<li>METODICA</li>
 		<ul>
 		<li><a href="dokumenty/uvod_do_skautskeho_mysleni.pdf">Úvod do skautského myšlení</a></li>
 		<li><a href="dokumenty/prezentace-zdroje.ppt">Radim - zdroje a prameny</a></li>
+		<li><a href="dokumenty/metodica-teorie_2016_2017.ppt">Adam, Zuzka - Úvod</a></li>
 		</ul>
 		<li>PSYCHOLOGIA & PEDAGOGICA</li>
+		<ul>
+		<li><a href="dokumenty/psychologie-osobnost.ppt">Zuzka - Psychologie I.</a></li>
+		<li><a href="dokumenty/vývojovka.ppt">Zuzka - Vývojovka</a></li>
+		</ul>
 		<li>TERRA</li>
 		<ul>
 		<li><a href="dokumenty/TERRA_Nez_vyjedete_na_tabor_2016.pdf">Hurón - Než vyjedete na tábor</a></li>
@@ -79,6 +87,8 @@ if (isset($_COOKIE['PrivatePageLogin'])) {
 		<li><a href="dokumenty/organizace_ventus.pdf">Adam,Doktor - Organizace Junáka - českého skauta</a></li>
 		<li><a href="dokumenty/Vranova_skripta-organizace.pdf">Vránova skripta - organizace</a></li>
 		<li><a href="dokumenty/Vranova_skripta-pravo.pdf">Vránova skripta - právo</a></li>
+		<li><a href="dokumenty/Ordo_et_Iustitia-trestni-pravo.ppt">Adam, Doktor - Trestní právo</a></li>
+		<li><a href="dokumenty/Ordo_et_Iustitia- uvod_pro_zajemce.ppt">Právo - úvod</a></li>
 		</ul>
 		<li>HUMANA</li>
 		<li>OSTATNÍ</li>
