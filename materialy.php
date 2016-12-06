@@ -80,8 +80,17 @@ if (isset($_COOKIE['PrivatePageLogin'])) {
 		<li><a href="dokumenty/TERRA_Nez_vyjedete_na_tabor_2016.pdf">Hurón - Než vyjedete na tábor</a></li>
 		<li><a href="dokumenty/Tera_1_vikend_2016_17.ppt">Bóža,Hurón - Terra</a></li>
 		</ul>
+		<!--
 		<li>MEDICA</li>
+		-->
 		<li>FISCUS</li>
+		<ul>
+		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_1_úvod hospodareni.ppt">Matýsek - Úvod do hospodaření</a></li>
+		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_2_hospodareni_akce_a_doklady.ppt">Matýsek - Hospodaření akce a doklady</a></li>
+		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_3_cestovni_prikaz.ppt">Matýsek - Cestovní příkaz</a></li>
+		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_4_rozpocet.ppt">Matýsek - Rozpočet</a></li>
+		<li><a href="dokumenty/hospodarsky_rad_2016.pdf">Hospodářský řád</a></li>
+		</ul>
 		<li>ORDO & IUSTITIA</li>
 		<ul>
 		<li><a href="dokumenty/organizace_ventus.pdf">Adam,Doktor - Organizace Junáka - českého skauta</a></li>
@@ -90,10 +99,16 @@ if (isset($_COOKIE['PrivatePageLogin'])) {
 		<li><a href="dokumenty/Ordo_et_Iustitia-trestni-pravo.ppt">Adam, Doktor - Trestní právo</a></li>
 		<li><a href="dokumenty/Ordo_et_Iustitia- uvod_pro_zajemce.ppt">Právo - úvod</a></li>
 		</ul>
+		<!--
 		<li>HUMANA</li>
+		-->
 		<li>OSTATNÍ</li>
 		<ul>
 		<li><a href="dokumenty/antikody.pdf">Antikódy</a></li>
+		<li><a href="dokumenty/listyjurovi.pdf">Listy Jurovi</a></li>
+		</ul>
+		<li>PROJEKT</li>
+		<ul>
 		</ul>
 		</ul>
 	  </p>
