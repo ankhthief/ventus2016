@@ -109,6 +109,8 @@ if (isset($_COOKIE['PrivatePageLogin'])) {
 		</ul>
 		<li>PROJEKT</li>
 		<ul>
+		<li><a href="dokumenty/VK_Ventus_2016_zadani_planovani.docx">Šablona pro projekt</a></li>
+		<li><a href="dokumenty/Ventus_2016-17_planovani.ppt">Prezentace plánování</a></li>
 		</ul>
 		</ul>
 	  </p>
