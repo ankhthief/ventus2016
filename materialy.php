@@ -55,6 +55,7 @@ if (isset($_COOKIE['PrivatePageLogin'])) {
 ?>
       <h2>MATERIÁLY</h2>
       <p>Zde budeme postupně doplňovat materiály z víkendů.<br>
+	  <h3>1. víkend</h3>
 	  <ul>
 		<li>IDEOLOGICA</li>
 		<ul>
@@ -112,6 +113,69 @@ if (isset($_COOKIE['PrivatePageLogin'])) {
 		<li><a href="dokumenty/VK_Ventus_2016_zadani_planovani.docx">Šablona pro projekt</a></li>
 		<li><a href="dokumenty/Ventus_2016-17_planovani.ppt">Prezentace plánování</a></li>
 		</ul>
+		</ul>
+		<!-- dokumenty druhého víkendu -->
+		<h3>2. víkend</h3>
+		<ul>
+		<li>COLLEGIUM</li>
+		<ul>
+		<li><a href="dokumenty/Belbinuv_test-tymove_role.pdf">Belbínův test - týmové role</a></li>
+		<li><a href="dokumenty/jak_pomoci_radcum_s_budovanim_autority.pdf">Jak pomoci rádcům s budováním autority</a></li>		
+		<li><a href="dokumenty/tym_spoluprace.pdf">Tým, spolupráce</a></li>
+		<li><a href="dokumenty/ukol_collegium.pdf">Úkol</a></li>
+		</ul>
+		<li>METODICA</li>
+		<ul>	
+		<li><a href="dokumenty/pasat_idealni_oddil.JPG">Ideální oddíl - Pasát</a></li>
+		<li><a href="dokumenty/mistral_idealni_oddil.JPG">Ideální oddíl - Mistrál</a></li>
+		<li><a href="dokumenty/ukol_metodica.pdf">Úkol - hra</a></li>
+		</ul>
+		<li>PSYCHOLOGIA & PEDAGOGICA</li>
+		<!--
+		<ul>
+		<li><a href="dokumenty/psychologie-osobnost.ppt">Zuzka - Psychologie I.</a></li>
+		<li><a href="dokumenty/vývojovka.ppt">Zuzka - Vývojovka</a></li>
+		</ul>
+		-->
+		<li>TERRA</li>
+		<ul>
+		<li><a href="dokumenty/Tera_2_vikend_2016_17.ppt">Hurón, Bóža - Táboření</a></li>
+		</ul>
+		<!--
+		<li>MEDICA</li>
+		-->
+		<li>FISCUS</li>
+		<!--
+		<ul>
+		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_1_úvod hospodareni.ppt">Matýsek - Úvod do hospodaření</a></li>
+		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_2_hospodareni_akce_a_doklady.ppt">Matýsek - Hospodaření akce a doklady</a></li>
+		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_3_cestovni_prikaz.ppt">Matýsek - Cestovní příkaz</a></li>
+		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_4_rozpocet.ppt">Matýsek - Rozpočet</a></li>
+		<li><a href="dokumenty/hospodarsky_rad_2016.pdf">Hospodářský řád</a></li>
+		</ul>
+		-->
+		<li>ORDO & IUSTITIA</li>
+		<ul>
+		<li><a href="dokumenty/prirucka_cekatelska_zkouska.pdf">Příručka - čekatelská zkouška</a></li>
+		<li><a href="dokumenty/soukrome_pravo_Ventus.pdf">Soukromé právo</a></li>
+		<li><a href="dokumenty/OOU_prava_deti_Ventus.pdf">Ochrana osobních údajů, práva dětí</a></li>
+		</ul>
+		<li>HUMANA</li>
+		<ul>
+		<li><a href="dokumenty/ukol_humana.pdf">Úkol</a></li>
+		</ul>
+		<!--
+		<li>OSTATNÍ</li>
+		<ul>
+		<li><a href="dokumenty/antikody.pdf">Antikódy</a></li>
+		<li><a href="dokumenty/listyjurovi.pdf">Listy Jurovi</a></li>
+		</ul>
+		<li>PROJEKT</li>
+		<ul>
+		<li><a href="dokumenty/VK_Ventus_2016_zadani_planovani.docx">Šablona pro projekt</a></li>
+		<li><a href="dokumenty/Ventus_2016-17_planovani.ppt">Prezentace plánování</a></li>
+		</ul>
+		-->
 		</ul>
 	  </p>
 	  
