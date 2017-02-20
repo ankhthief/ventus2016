@@ -128,6 +128,7 @@ if (isset($_COOKIE['PrivatePageLogin'])) {
 		<ul>	
 		<li><a href="dokumenty/pasat_idealni_oddil.JPG">Ideální oddíl - Pasát</a></li>
 		<li><a href="dokumenty/mistral_idealni_oddil.JPG">Ideální oddíl - Mistrál</a></li>
+		<li><a href="dokumenty/idealni_oddil.pdf">Ideální oddíl</a></li>
 		<li><a href="dokumenty/ukol_metodica.pdf">Úkol - hra</a></li>
 		</ul>
 		<li>PSYCHOLOGIA & PEDAGOGICA</li>
@@ -145,15 +146,13 @@ if (isset($_COOKIE['PrivatePageLogin'])) {
 		<li>MEDICA</li>
 		-->
 		<li>FISCUS</li>
-		<!--
 		<ul>
-		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_1_úvod hospodareni.ppt">Matýsek - Úvod do hospodaření</a></li>
+		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_5_majetek.ppt">Matýsek - Majetek</a></li><!--
 		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_2_hospodareni_akce_a_doklady.ppt">Matýsek - Hospodaření akce a doklady</a></li>
 		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_3_cestovni_prikaz.ppt">Matýsek - Cestovní příkaz</a></li>
 		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_4_rozpocet.ppt">Matýsek - Rozpočet</a></li>
-		<li><a href="dokumenty/hospodarsky_rad_2016.pdf">Hospodářský řád</a></li>
-		</ul>
-		-->
+		<li><a href="dokumenty/hospodarsky_rad_2016.pdf">Hospodářský řád</a></li>-->
+		</ul>	
 		<li>ORDO & IUSTITIA</li>
 		<ul>
 		<li><a href="dokumenty/prirucka_cekatelska_zkouska.pdf">Příručka - čekatelská zkouška</a></li>
