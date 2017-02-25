@@ -134,7 +134,7 @@ if (isset($_COOKIE['PrivatePageLogin'])) {
 		<li>PSYCHOLOGIA & PEDAGOGICA</li>
 		<ul>
 		<li><a href="dokumenty/psychologie-osobnost_2.ppt">Zuzka - Psychologie II.</a></li>
-		<li><a href="dokumenty/vývojovka_2.ppt">Zuzka - Vývojovka II.</a></li>
+		<li><a href="dokumenty/vyvojovka_2.ppt">Zuzka - Vývojovka II.</a></li>
 		</ul>
 		<li>TERRA</li>
 		<ul>
