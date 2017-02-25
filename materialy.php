@@ -132,26 +132,17 @@ if (isset($_COOKIE['PrivatePageLogin'])) {
 		<li><a href="dokumenty/ukol_metodica.pdf">Úkol - hra</a></li>
 		</ul>
 		<li>PSYCHOLOGIA & PEDAGOGICA</li>
-		<!--
 		<ul>
-		<li><a href="dokumenty/psychologie-osobnost.ppt">Zuzka - Psychologie I.</a></li>
-		<li><a href="dokumenty/vývojovka.ppt">Zuzka - Vývojovka</a></li>
+		<li><a href="dokumenty/psychologie-osobnost_2.ppt">Zuzka - Psychologie II.</a></li>
+		<li><a href="dokumenty/vývojovka_2.ppt">Zuzka - Vývojovka II.</a></li>
 		</ul>
-		-->
 		<li>TERRA</li>
 		<ul>
 		<li><a href="dokumenty/Tera_2_vikend_2016_17.ppt">Hurón, Bóža - Táboření</a></li>
 		</ul>
-		<!--
-		<li>MEDICA</li>
-		-->
 		<li>FISCUS</li>
 		<ul>
-		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_5_majetek.ppt">Matýsek - Majetek</a></li><!--
-		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_2_hospodareni_akce_a_doklady.ppt">Matýsek - Hospodaření akce a doklady</a></li>
-		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_3_cestovni_prikaz.ppt">Matýsek - Cestovní příkaz</a></li>
-		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_4_rozpocet.ppt">Matýsek - Rozpočet</a></li>
-		<li><a href="dokumenty/hospodarsky_rad_2016.pdf">Hospodářský řád</a></li>-->
+		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_5_majetek.ppt">Matýsek - Majetek</a></li>
 		</ul>	
 		<li>ORDO & IUSTITIA</li>
 		<ul>
@@ -163,18 +154,6 @@ if (isset($_COOKIE['PrivatePageLogin'])) {
 		<ul>
 		<li><a href="dokumenty/ukol_humana.pdf">Úkol</a></li>
 		</ul>
-		<!--
-		<li>OSTATNÍ</li>
-		<ul>
-		<li><a href="dokumenty/antikody.pdf">Antikódy</a></li>
-		<li><a href="dokumenty/listyjurovi.pdf">Listy Jurovi</a></li>
-		</ul>
-		<li>PROJEKT</li>
-		<ul>
-		<li><a href="dokumenty/VK_Ventus_2016_zadani_planovani.docx">Šablona pro projekt</a></li>
-		<li><a href="dokumenty/Ventus_2016-17_planovani.ppt">Prezentace plánování</a></li>
-		</ul>
-		-->
 		</ul>
 	  </p>
 	  
