@@ -157,13 +157,13 @@ if (isset($_COOKIE['PrivatePageLogin'])) {
 		</ul>
 		
 		<!-- dokumenty 3.vikendu -->
-		<!--
+		
 		<h3>3. víkend</h3>
 		<ul>
 		<li>COLLEGIUM</li>
 		<ul>
 		<li><a href="dokumenty/17_03_10-12 Belbin_web.pdf">Týmové role podle Belbina</a></li>
-		<li><a href="dokumenty/17_03_10-12 3.víkend Porady a úkoly_web.pdf">Porady a úkoly</a></li>		
+		<li><a href="dokumenty/porady_a_ukoly.pdf">Porady a úkoly</a></li>		
 		</ul>
 		<li>METODICA</li>
 		<ul>	
@@ -179,22 +179,24 @@ if (isset($_COOKIE['PrivatePageLogin'])) {
 		</ul>
 		<li>FISCUS</li>
 		<ul>
-		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_6_finanční gramotnost.ppt">Matýsek - Finanční gramotnost</a></li>
+		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_6_financni gramotnost.ppt">Matýsek - Finanční gramotnost</a></li>
 		</ul>	
 		<li>ORDO & IUSTITIA</li>
 		<ul>
 		<li><a href="dokumenty/skautIS.pdf">Doktor - SkautIS</a></li>
 		<li><a href="dokumenty/VENTUS_Priroda_a_zakony_v2017.pptx">Huron - příroda a zákony</a></li>
-		<li><a href="dokumenty/prezentace-Ordo et Iustitia-uvod  – prestupky,spr.delikty,spr.r..ppt">Přestupky, delikty</a></li>
+		<li><a href="dokumenty/prestupky.ppt">Přestupky, delikty</a></li>
 		</ul>
+		<!--
 		<li>MEDICA</li>
 		<ul>
 		<li><a href="dokumenty/ukol_humana.pdf">Úkol</a></li>
 		</ul>
+		-->
 		</ul>
 		
 		
-		-->
+		
 	  </p>
 	  
 	  
