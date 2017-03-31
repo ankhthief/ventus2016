@@ -74,7 +74,7 @@ if (isset($_COOKIE['PrivatePageLogin'])) {
 		<li>PSYCHOLOGIA & PEDAGOGICA</li>
 		<ul>
 		<li><a href="dokumenty/psychologie-osobnost.ppt">Zuzka - Psychologie I.</a></li>
-		<li><a href="dokumenty/vývojovka.ppt">Zuzka - Vývojovka</a></li>
+		<li><a href="dokumenty/vyvojovka.ppt">Zuzka - Vývojovka</a></li>
 		</ul>
 		<li>TERRA</li>
 		<ul>
@@ -86,7 +86,7 @@ if (isset($_COOKIE['PrivatePageLogin'])) {
 		-->
 		<li>FISCUS</li>
 		<ul>
-		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_1_úvod hospodareni.ppt">Matýsek - Úvod do hospodaření</a></li>
+		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_1_uvod hospodareni.ppt">Matýsek - Úvod do hospodaření</a></li>
 		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_2_hospodareni_akce_a_doklady.ppt">Matýsek - Hospodaření akce a doklady</a></li>
 		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_3_cestovni_prikaz.ppt">Matýsek - Cestovní příkaz</a></li>
 		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_4_rozpocet.ppt">Matýsek - Rozpočet</a></li>
