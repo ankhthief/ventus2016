@@ -46,9 +46,7 @@ Do the following if you're using your customized build of modernizr (http://www.
     <div class="underbody">
 	
 <?php
-$username = "ventus2016";
-$password = "budjaksvojsik";
-$nonsense = "supercalifragilisticexpialidocious";
+require 'login.php';
 
 if (isset($_COOKIE['PrivatePageLogin'])) {
    if ($_COOKIE['PrivatePageLogin'] == md5($password.$nonsense)) {
@@ -59,141 +57,51 @@ if (isset($_COOKIE['PrivatePageLogin'])) {
 	  <ul>
 		<li>IDEOLOGICA</li>
 		<ul>
-		<li><a href="dokumenty/Prezentace_Ventus-Ideologica.ppt">Rocky - na čem stojí skauting</a></li>
+		<li></li>
 		</ul>
 		<li>COLLEGIUM</li>
 		<ul>
-		<li><a href="dokumenty/Autorita.ppt">Máňa - autorita</a></li>
+		<li></li>
 		</ul>
 		<li>METODICA</li>
 		<ul>
-		<li><a href="dokumenty/uvod_do_skautskeho_mysleni.pdf">Úvod do skautského myšlení</a></li>
-		<li><a href="dokumenty/prezentace-zdroje.ppt">Radim - zdroje a prameny</a></li>
-		<li><a href="dokumenty/metodica-teorie_2016_2017.ppt">Adam, Zuzka - Úvod</a></li>
+		<li></li>
+		<li></li>
+		<li></li>
 		</ul>
 		<li>PSYCHOLOGIA & PEDAGOGICA</li>
 		<ul>
-		<li><a href="dokumenty/psychologie-osobnost.ppt">Zuzka - Psychologie I.</a></li>
-		<li><a href="dokumenty/vyvojovka.ppt">Zuzka - Vývojovka</a></li>
+		<li></li>
+		<li></li>
 		</ul>
 		<li>TERRA</li>
 		<ul>
-		<li><a href="dokumenty/TERRA_Nez_vyjedete_na_tabor_2016.pdf">Hurón - Než vyjedete na tábor</a></li>
-		<li><a href="dokumenty/Tera_1_vikend_2016_17.ppt">Bóža,Hurón - Terra</a></li>
+		<li></li>
+		<li></li>
 		</ul>
-		<!--
-		<li>MEDICA</li>
-		-->
 		<li>FISCUS</li>
 		<ul>
-		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_1_uvod hospodareni.ppt">Matýsek - Úvod do hospodaření</a></li>
-		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_2_hospodareni_akce_a_doklady.ppt">Matýsek - Hospodaření akce a doklady</a></li>
-		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_3_cestovni_prikaz.ppt">Matýsek - Cestovní příkaz</a></li>
-		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_4_rozpocet.ppt">Matýsek - Rozpočet</a></li>
-		<li><a href="dokumenty/hospodarsky_rad_2016.pdf">Hospodářský řád</a></li>
 		</ul>
 		<li>ORDO & IUSTITIA</li>
 		<ul>
-		<li><a href="dokumenty/organizace_ventus.pdf">Adam,Doktor - Organizace Junáka - českého skauta</a></li>
-		<li><a href="dokumenty/Vranova_skripta-organizace.pdf">Vránova skripta - organizace</a></li>
-		<li><a href="dokumenty/Vranova_skripta-pravo.pdf">Vránova skripta - právo</a></li>
-		<li><a href="dokumenty/Ordo_et_Iustitia-trestni-pravo.ppt">Adam, Doktor - Trestní právo</a></li>
-		<li><a href="dokumenty/Ordo_et_Iustitia- uvod_pro_zajemce.ppt">Právo - úvod</a></li>
 		</ul>
-		<!--
-		<li>HUMANA</li>
-		-->
 		<li>OSTATNÍ</li>
 		<ul>
-		<li><a href="dokumenty/antikody.pdf">Antikódy</a></li>
-		<li><a href="dokumenty/listyjurovi.pdf">Listy Jurovi</a></li>
 		</ul>
 		<li>PROJEKT</li>
 		<ul>
-		<li><a href="dokumenty/VK_Ventus_2016_zadani_planovani.docx">Šablona pro projekt</a></li>
-		<li><a href="dokumenty/Ventus_2016-17_planovani.ppt">Prezentace plánování</a></li>
 		</ul>
 		</ul>
 		<!-- dokumenty druhého víkendu -->
 		<h3>2. víkend</h3>
-		<ul>
-		<li>COLLEGIUM</li>
-		<ul>
-		<li><a href="dokumenty/Belbinuv_test-tymove_role.pdf">Belbínův test - týmové role</a></li>
-		<li><a href="dokumenty/jak_pomoci_radcum_s_budovanim_autority.pdf">Jak pomoci rádcům s budováním autority</a></li>		
-		<li><a href="dokumenty/tym_spoluprace.pdf">Tým, spolupráce</a></li>
-		<li><a href="dokumenty/ukol_collegium.pdf">Úkol</a></li>
-		</ul>
-		<li>METODICA</li>
-		<ul>	
-		<li><a href="dokumenty/pasat_idealni_oddil.JPG">Ideální oddíl - Pasát</a></li>
-		<li><a href="dokumenty/mistral_idealni_oddil.JPG">Ideální oddíl - Mistrál</a></li>
-		<li><a href="dokumenty/idealni_oddil.pdf">Ideální oddíl</a></li>
-		<li><a href="dokumenty/ukol_metodica.pdf">Úkol - hra</a></li>
-		</ul>
-		<li>PSYCHOLOGIA & PEDAGOGICA</li>
-		<ul>
-		<li><a href="dokumenty/psychologie-osobnost_2.ppt">Zuzka - Psychologie II.</a></li>
-		<li><a href="dokumenty/vyvojovka_2.ppt">Zuzka - Vývojovka II.</a></li>
-		</ul>
-		<li>TERRA</li>
-		<ul>
-		<li><a href="dokumenty/Tera_2_vikend_2016_17.ppt">Hurón, Bóža - Táboření</a></li>
-		</ul>
-		<li>FISCUS</li>
-		<ul>
-		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_5_majetek.ppt">Matýsek - Majetek</a></li>
-		</ul>	
-		<li>ORDO & IUSTITIA</li>
-		<ul>
-		<li><a href="dokumenty/prirucka_cekatelska_zkouska.pdf">Příručka - čekatelská zkouška</a></li>
-		<li><a href="dokumenty/soukrome_pravo_Ventus.pdf">Soukromé právo</a></li>
-		<li><a href="dokumenty/OOU_prava_deti_Ventus.pdf">Ochrana osobních údajů, práva dětí</a></li>
-		</ul>
-		<li>HUMANA</li>
-		<ul>
-		<li><a href="dokumenty/ukol_humana.pdf">Úkol</a></li>
-		</ul>
-		</ul>
+		
 		
 		<!-- dokumenty 3.vikendu -->
 		
 		<h3>3. víkend</h3>
-		<ul>
-		<li>COLLEGIUM</li>
-		<ul>
-		<li><a href="dokumenty/17_03_10-12 Belbin_web.pdf">Týmové role podle Belbina</a></li>
-		<li><a href="dokumenty/porady_a_ukoly.pdf">Porady a úkoly</a></li>		
-		</ul>
-		<li>METODICA</li>
-		<ul>	
-		<li><a href="dokumenty/prezentace-hra.ppt">Hra - Radim</a></li>
-		</ul>
-		<li>PSYCHOLOGIA & PEDAGOGICA</li>
-		<ul>
-		<li><a href="dokumenty/psychologie - komunikace.ppt">Zuzka - komunikace</a></li>
-		</ul>
-		<li>TERRA</li>
-		<ul>
-		<li><a href="dokumenty/VENTUS_Terra_tabory_Huron_v2016.pdf">Hurón, Bóža - Tábory</a></li>
-		</ul>
-		<li>FISCUS</li>
-		<ul>
-		<li><a href="dokumenty/Prezentace Ventus Fiscus 2016-17_6_financni gramotnost.ppt">Matýsek - Finanční gramotnost</a></li>
-		</ul>	
-		<li>ORDO & IUSTITIA</li>
-		<ul>
-		<li><a href="dokumenty/skautIS.pdf">Doktor - SkautIS</a></li>
-		<li><a href="dokumenty/VENTUS_Priroda_a_zakony_v2017.pptx">Huron - příroda a zákony</a></li>
-		<li><a href="dokumenty/prestupky.ppt">Přestupky, delikty</a></li>
-		</ul>
-		<!--
-		<li>MEDICA</li>
-		<ul>
-		<li><a href="dokumenty/ukol_humana.pdf">Úkol</a></li>
-		</ul>
-		-->
-		</ul>
+		
+		
+		
 		
 		
 		
