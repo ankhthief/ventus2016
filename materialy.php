@@ -144,7 +144,7 @@ if (isset($_GET['p']) && $_GET['p'] == "login") {
 <form action="<?php echo $_SERVER['PHP_SELF']; ?>?p=login" method="post">
 <label><input type="text" name="user" id="user" /> Zadej jméno</label><br />
 <label><input type="password" name="keypass" id="keypass" /> Zadej heslo</label><br /><br />
-<input type="submit" id="submit" value="Přihlásit se jako Svojsík" /><br /><br />
+<input type="submit" id="submit" value="Přihlásit se" /><br /><br />
 </form>
 
 
