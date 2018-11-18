@@ -86,7 +86,7 @@ if (isset($_COOKIE['PrivatePageLogin'])) {
 		<ul>
 		</ul>
 		<li>OSTATNÍ</li>
-		<ul>
+		<ul><a href="http://tdc.skauting.cz/download/Vudcovka_2017_web.pdf">Vůdcovská zkouška - příručka nejen k přípravě na VZ</a>
 		</ul>
 		<li>PROJEKT</li>
 		<ul>
