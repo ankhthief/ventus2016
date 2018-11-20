@@ -57,39 +57,59 @@ if (isset($_COOKIE['PrivatePageLogin'])) {
 	  <ul>
 		<li>IDEOLOGICA</li>
 		<ul>
-		<li></li>
+		<li><a href="http://ventus.skauting.cz/dokumenty/2018-2019/ideologica.pdf">Na čem stojí skauting?</a></li>
 		</ul>
 		<li>COLLEGIUM</li>
 		<ul>
-		<li></li>
+		<li><a href="http://ventus.skauting.cz/dokumenty/2018-2019/jak_pomoci_radcum_s_budovanim_autority.pdf">Jak pomoci rádcům s budováním autority</a></li>
+		<li><a href="http://ventus.skauting.cz/dokumenty/2018-2019/collegium-autorita.pdf">Autorita + styly vedení</a></li>
+		<li><a href="http://ventus.skauting.cz/dokumenty/2018-2019/collegium_1.JPG">Flipchart foto 1</a></li>
+		<li><a href="http://ventus.skauting.cz/dokumenty/2018-2019/collegium_2.JPG">Flipchart foto 2</a></li>
+		<li><a href="http://ventus.skauting.cz/dokumenty/2018-2019/collegium_3.JPG">Flipchart foto 3</a></li>
+		<li><a href="http://ventus.skauting.cz/dokumenty/2018-2019/collegium_4.JPG">Flipchart foto 4</a></li>
 		</ul>
 		<li>METODICA</li>
 		<ul>
-		<li></li>
-		<li></li>
-		<li></li>
+		<li><a href="http://ventus.skauting.cz/dokumenty/2018-2019/teorie_vychovny_program.pdf">Výchovný program</a></li>
+		<li><a href="http://ventus.skauting.cz/dokumenty/2018-2019/metodica-teorie.pdf">Teorie</a></li>
+		
 		</ul>
 		<li>PSYCHOLOGIA & PEDAGOGICA</li>
 		<ul>
-		<li></li>
-		<li></li>
+		<li><a href="http://ventus.skauting.cz/dokumenty/2018-2019/psychologica-osobnost_komunikace.pdf">Psychologie I.</a></li>
 		</ul>
 		<li>TERRA</li>
 		<ul>
-		<li></li>
-		<li></li>
+		<li><a href="http://ventus.skauting.cz/dokumenty/2018-2019/terra_bezpecnost.pdf">Úvod</a></li>
+		<li><a href="http://ventus.skauting.cz/dokumenty/2018-2019/terra_tabor.pdf">Než vyjedete na tábor</a></li>
 		</ul>
 		<li>FISCUS</li>
 		<ul>
+		<li><a href="http://ventus.skauting.cz/dokumenty/2018-2019/fiscus-uvod_hospodareni_a_doklady.pdf">Hospodaření a doklady</a></li>
+		<li><a href="http://ventus.skauting.cz/dokumenty/2018-2019/fiscus-hospodareni_akce.pdf">Hospodaření akce</a></li>
+		<li><a href="http://ventus.skauting.cz/dokumenty/2018-2019/fiscus-cestovni_prikaz.pdf">Cestovní příkaz</a></li>
+		<li><a href="http://ventus.skauting.cz/dokumenty/2018-2019/rad_hospodarsky_2016.pdf">Hospodářský řád</a></li>
+		<li><a href="http://ventus.skauting.cz/dokumenty/2018-2019/smernice_k_proplaceni_cestovnich_nahrad.pdf">Směrnice k proplácení cestovních náhrad</a></li>
 		</ul>
 		<li>ORDO & IUSTITIA</li>
 		<ul>
+		<li><a href="http://ventus.skauting.cz/dokumenty/2018-2019/ordo_uvod.pdf">Úvod</a></li>
+		<li><a href="http://ventus.skauting.cz/dokumenty/2018-2019/Ordo_soukrome_pravo.pdf">Soukromé právo</a></li>
+		<li><a href="http://ventus.skauting.cz/dokumenty/2018-2019/ordo-trestni_pravo.pdf">Trestní právo</a></li>
+		<li><a href="http://ventus.skauting.cz/dokumenty/2018-2019/Ordo_organizace_ventus.pdf">Organizace</a></li>
+		<li><a href="http://ventus.skauting.cz/dokumenty/2018-2019/Ordo-organizace_handout_reseny.pdf">Řešený handout</a></li>
+		<li><a href="http://ventus.skauting.cz/dokumenty/2018-2019/Ordo-oukrome_pravo_priklad-rozhodnuti.pdf">Příklad - rozhodnutí</a></li>
 		</ul>
 		<li>OSTATNÍ</li>
-		<ul><a href="http://tdc.skauting.cz/download/Vudcovka_2017_web.pdf">Vůdcovská zkouška - příručka nejen k přípravě na VZ</a>
+		<ul>
+		<li><a href="http://tdc.skauting.cz/download/Vudcovka_2017_web.pdf">Vůdcovská zkouška - příručka nejen k přípravě na VZ</a></li>
+		<li><a href="http://ventus.skauting.cz/dokumenty/2018-2019/seznam_ukolu_a_terminu.pdf">Seznam úkolů a termínů</a></li>
+		<li><a href="http://ventus.skauting.cz/dokumenty/2018-2019/listyjurovi.pdf">Listy Jurovi</a></li>
 		</ul>
 		<li>PROJEKT</li>
 		<ul>
+		<li><a href="http://ventus.skauting.cz/dokumenty/2018-2019/VK_projekt_vzor.docx">Šablona pro projekt</a></li>
+		<li><a href="http://ventus.skauting.cz/dokumenty/2018-2019/planovani.pdf">Prezentace plánování</a></li>
 		</ul>
 		</ul>
 		<!-- dokumenty druhého víkendu -->
