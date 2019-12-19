@@ -175,7 +175,7 @@ if (isset($_GET['p']) && $_GET['p'] == "login") {
 
   <div id="footer">
     <div id="underfooter">
-      <p>Vůdcovský kurz Ventus, Junák - český skaut, okres Praha 4</p>
+      <p>Vůdcovský kurz Ventus, Junák - český skaut, okres Praha 4<img src="img/SKAUT_bezznacky_logo_bile_stit.png" width="100" height="100" alt="logo" ></p><div style="clear:both"></div></p>
     </div>
   </div>
   
